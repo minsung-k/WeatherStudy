@@ -1,2 +1,1 @@
-"# WeatherStudy" 
-"# WeatherStudy" 
+2019 기상청 빅데이터 빅테이터 콘테스트 출품작입니다.
